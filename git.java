@@ -8,7 +8,7 @@ public class git{
 
 
         
-System.out.println("Hello git branch 1");
+System.out.println("Hello git branch!! 1");
         System.out.println("Line 2 merge check");
         System.out.println("Hello git branch created now!");
         System.out.println("Checking out push and pull");
